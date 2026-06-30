@@ -1,0 +1,2 @@
+a=Sean
+print(a)
